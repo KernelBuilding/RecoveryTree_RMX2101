@@ -2,9 +2,9 @@
 
 Current Status : Under testing 
 
+FIX SD Card not working.
 
 # Bugs :
-- SD Card not working.
 - FBE Decrypt is failing.
 
 # Download:
